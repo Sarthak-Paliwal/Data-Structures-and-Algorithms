@@ -1,0 +1,10 @@
+ // System.out.println(isSorted(arr, 0));
+        // System.out.println(firstOccur(arr, 8, 0));
+        // System.out.println(powerOfx(5, 3));
+        // ;
+        // System.out.println(Optimizepower(4, 3));
+        // System.out.println(placeTile(5));
+        // String str = "Saarrthhaak";
+        // removeDuplicates(str, 0, new StringBuilder(""), new boolean[26]);
+        // System.out.println(pairFriends(3));
+        // binaryString(3, 0, "");
